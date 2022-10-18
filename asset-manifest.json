@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jetton-deployer-webclient/static/css/main.c2672f2a.css",
+    "main.js": "/jetton-deployer-webclient/static/js/main.f6ef2fae.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/jetton-deployer-webclient/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/tonhub.png": "/jetton-deployer-webclient/static/media/tonhub.a222cde6645afb15181c.png",
+    "static/media/tonhub-qr.png": "/jetton-deployer-webclient/static/media/tonhub-qr.784951e3cfb200389674.png",
+    "static/media/chrome.svg": "/jetton-deployer-webclient/static/media/chrome.167f7ab746641de40862642e809305c6.svg",
+    "static/media/logo.svg": "/jetton-deployer-webclient/static/media/logo.9ff4dc99a8ef1918694a36a6be25c004.svg",
+    "index.html": "/jetton-deployer-webclient/index.html",
+    "static/media/jetton.svg": "/jetton-deployer-webclient/static/media/jetton.f5764d0009ff14fc2baf27423cda2157.svg",
+    "static/media/github.svg": "/jetton-deployer-webclient/static/media/github.eb44db579f9ef70481782e3e52e0da79.svg",
+    "static/media/wallet-blue.svg": "/jetton-deployer-webclient/static/media/wallet-blue.25c383711f7918dfbc750ee2a074ba45.svg",
+    "static/media/wallet.svg": "/jetton-deployer-webclient/static/media/wallet.5e5dd13c88a74653fbf6f61cd7fc5f01.svg",
+    "static/media/copy.svg": "/jetton-deployer-webclient/static/media/copy.4f00c4ea8406c876d91eea345cfa1764.svg",
+    "static/media/search.svg": "/jetton-deployer-webclient/static/media/search.7751a28837d3d87d75961623117dc43c.svg",
+    "main.c2672f2a.css.map": "/jetton-deployer-webclient/static/css/main.c2672f2a.css.map",
+    "main.f6ef2fae.js.map": "/jetton-deployer-webclient/static/js/main.f6ef2fae.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/jetton-deployer-webclient/static/js/787.d1d4a2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2672f2a.css",
+    "static/js/main.f6ef2fae.js"
+  ]
+}
