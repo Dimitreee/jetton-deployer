@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/jetton-deployer/static/css/main.c2672f2a.css",
-    "main.js": "/jetton-deployer/static/js/main.c9cfcf3d.js",
-    "static/js/787.d1d4a2c2.chunk.js": "/jetton-deployer/static/js/787.d1d4a2c2.chunk.js",
-    "static/media/tonhub.png": "/jetton-deployer/static/media/tonhub.a222cde6645afb15181c.png",
-    "static/media/tonhub-qr.png": "/jetton-deployer/static/media/tonhub-qr.784951e3cfb200389674.png",
-    "static/media/chrome.svg": "/jetton-deployer/static/media/chrome.167f7ab746641de40862642e809305c6.svg",
-    "static/media/logo.svg": "/jetton-deployer/static/media/logo.9ff4dc99a8ef1918694a36a6be25c004.svg",
-    "index.html": "/jetton-deployer/index.html",
-    "static/media/jetton.svg": "/jetton-deployer/static/media/jetton.f5764d0009ff14fc2baf27423cda2157.svg",
-    "static/media/github.svg": "/jetton-deployer/static/media/github.eb44db579f9ef70481782e3e52e0da79.svg",
-    "static/media/wallet-blue.svg": "/jetton-deployer/static/media/wallet-blue.25c383711f7918dfbc750ee2a074ba45.svg",
-    "static/media/wallet.svg": "/jetton-deployer/static/media/wallet.5e5dd13c88a74653fbf6f61cd7fc5f01.svg",
-    "static/media/copy.svg": "/jetton-deployer/static/media/copy.4f00c4ea8406c876d91eea345cfa1764.svg",
-    "static/media/search.svg": "/jetton-deployer/static/media/search.7751a28837d3d87d75961623117dc43c.svg",
-    "main.c2672f2a.css.map": "/jetton-deployer/static/css/main.c2672f2a.css.map",
-    "main.c9cfcf3d.js.map": "/jetton-deployer/static/js/main.c9cfcf3d.js.map",
-    "787.d1d4a2c2.chunk.js.map": "/jetton-deployer/static/js/787.d1d4a2c2.chunk.js.map"
+    "main.css": "/static/css/main.c2672f2a.css",
+    "main.js": "/static/js/main.b808f9d4.js",
+    "static/js/787.d1d4a2c2.chunk.js": "/static/js/787.d1d4a2c2.chunk.js",
+    "static/media/tonhub.png": "/static/media/tonhub.a222cde6645afb15181c.png",
+    "static/media/tonhub-qr.png": "/static/media/tonhub-qr.784951e3cfb200389674.png",
+    "static/media/chrome.svg": "/static/media/chrome.167f7ab746641de40862642e809305c6.svg",
+    "static/media/logo.svg": "/static/media/logo.9ff4dc99a8ef1918694a36a6be25c004.svg",
+    "index.html": "/index.html",
+    "static/media/jetton.svg": "/static/media/jetton.f5764d0009ff14fc2baf27423cda2157.svg",
+    "static/media/github.svg": "/static/media/github.eb44db579f9ef70481782e3e52e0da79.svg",
+    "static/media/wallet-blue.svg": "/static/media/wallet-blue.25c383711f7918dfbc750ee2a074ba45.svg",
+    "static/media/wallet.svg": "/static/media/wallet.5e5dd13c88a74653fbf6f61cd7fc5f01.svg",
+    "static/media/copy.svg": "/static/media/copy.4f00c4ea8406c876d91eea345cfa1764.svg",
+    "static/media/search.svg": "/static/media/search.7751a28837d3d87d75961623117dc43c.svg",
+    "main.c2672f2a.css.map": "/static/css/main.c2672f2a.css.map",
+    "main.b808f9d4.js.map": "/static/js/main.b808f9d4.js.map",
+    "787.d1d4a2c2.chunk.js.map": "/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2672f2a.css",
-    "static/js/main.c9cfcf3d.js"
+    "static/js/main.b808f9d4.js"
   ]
 }
